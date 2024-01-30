@@ -1,2 +1,3 @@
 # Project
-This is an amazon clone project 
+This is an amazon clone project.
+Tech stack: HTML,CSS.
